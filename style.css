@@ -47,7 +47,8 @@ main {
 }
 
 .description span {
-    opacity: 50%;
+    opacity: 35%;
+    padding-left: 4px;
 }
 
 .description h1 {
